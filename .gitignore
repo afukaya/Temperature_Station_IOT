@@ -1,0 +1,13 @@
+*.pyc
+*.pem
+*.pub
+*.tar.gz
+*.zip
+*.sql
+*.db
+secrests.txt
+./tmp
+./build/*
+.vscode/*
+.vscode
+.venv
